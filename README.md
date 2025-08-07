@@ -1,2 +1,3 @@
 # Openpose
 Openpose获取骨骼关键点序列json文件
+修改自原Openpose内demo_video.py
